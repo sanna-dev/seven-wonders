@@ -1,4 +1,4 @@
-﻿* {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -56,7 +56,7 @@ body {
     }
 
 .main-nav {
-    background: #ebfdff;
+    background: #F0F4F8;
     padding: 15px 10px;
     width: 100%;
     border-radius: 0;
@@ -95,7 +95,7 @@ body {
 }
 
 .main-content {
-    background: #ebfdff;
+    background: #F0F4F8;
     flex: 3;
     min-width: 250px;
     padding: 25px;
@@ -130,7 +130,7 @@ body {
     }
 
 .sidebar {
-    background: #ebfdff;
+    background: #F0F4F8;
     flex: 1;
     min-width: 200px;
     max-width: 280px;
